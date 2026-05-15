@@ -1,0 +1,13 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/KernelSU-Next/KernelSU-Next.git
+	branch = next-susfs
+[submodule "susfs4ksu"]
+	path = susfs4ksu
+	url = https://gitlab.com/simonpunk/susfs4ksu.git
+[submodule "AnyKernel3"]
+	path = AnyKernel3
+	url = https://github.com/mputerapamungkas/AnyKernel3.git
+[submodule "NonGKI_Kernel_Build"]
+	path = NonGKI_Kernel_Build
+	url = https://github.com/JackA1ltman/NonGKI_Kernel_Build.git
