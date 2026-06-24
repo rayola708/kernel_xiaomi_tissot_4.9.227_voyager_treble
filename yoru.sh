@@ -25,7 +25,7 @@ KIMG="$OUTDIR/Image.gz"
 export PATH="$ROOTDIR/clang-zyc/bin:$PATH"
 
 # ================= INFO =================
-KERNEL_NAME="Yoru-Treble"
+KERNEL_NAME="PhroLova-Treble"
 DEVICE="tissot"
 
 # =============== DATE (WIB) ===============
